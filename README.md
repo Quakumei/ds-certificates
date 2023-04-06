@@ -56,7 +56,8 @@
 <!-- Table -->
 | Название | Ссылки | Описание |
 | :--- | :--- | :--- |
-| Веб-Сервис для форматирования кода на C++ | [Репозиторий](https://github.com/Quakumei/zharko-formatter/issues) | Flask, clang-format, Heroku, простой сервис |
+| Чат-бот для базы знаний (WIP) | [Репозиторий](https://github.com/philadelphia-rus/znayu-ai) | OpenAI, TF-IDF, FastAPI, Aiogram - база знаний с чат-ботом с добавлением фактов в RunTime |
+| Веб-Сервис для форматирования кода на C++ | [Репозиторий](https://github.com/Quakumei/zharko-formatter/) | Flask, clang-format, Heroku, простой сервис |
 | ParkingMap | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Computer Vision, Сервис для определения занятости парковок по фотке парковок |
 | TripAR (Триппи) | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Augmented Reality, Мобильное приложение для виртуального гид |
 | ... | ... | ... |
