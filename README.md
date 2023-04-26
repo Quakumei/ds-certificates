@@ -1,10 +1,25 @@
 # Мой путь в Data Science
 
 ## Оглавление
+- [Проекты](#Проекты)
 - [Сертификаты с хакатонов](#Сертификаты-с-хакатонов)
 - [Сертификаты с курсов](#Сертификаты-с-курсов)
 - [Релевантные предметы в университете](#Релевантные-предметы-в-университете)
-- [Проекты](#Проекты)
+
+
+
+## Проекты
+
+<!-- Table -->
+| Название | Ссылки | Описание |
+| :--- | :--- | :--- |
+| Чат-бот для базы знаний (WIP) | [Репозиторий](https://github.com/philadelphia-rus/znayu-ai) | OpenAI, TF-IDF, FastAPI, Aiogram - база знаний с чат-ботом с добавлением фактов в RunTime |
+| Мобильное приложение для анализа молочной продукции (WIP) | [прототип](https://github.com/thevladoss/maslo_classifier) | PCA, Classic ML, Mobile |
+| Веб-Сервис для форматирования кода на C++ | [Репозиторий](https://github.com/Quakumei/zharko-formatter/) | Flask, clang-format, Heroku, простой сервис |
+| ParkingMap | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Computer Vision, Сервис для определения занятости парковок по фотке парковок |
+| TripAR (Триппи) | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Augmented Reality, Мобильное приложение для виртуального гид |
+| ... | ... | ... |
+
 
 ## Сертификаты с хакатонов
 
@@ -51,14 +66,3 @@
 | «ООП: Программирование на Java» | 4 | ООП, Java |
 
 
-## Проекты
-
-<!-- Table -->
-| Название | Ссылки | Описание |
-| :--- | :--- | :--- |
-| Чат-бот для базы знаний (WIP) | [Репозиторий](https://github.com/philadelphia-rus/znayu-ai) | OpenAI, TF-IDF, FastAPI, Aiogram - база знаний с чат-ботом с добавлением фактов в RunTime |
-| Мобильное приложение для анализа молочной продукции (WIP) | [прототип](https://github.com/thevladoss/maslo_classifier) | PCA, Classic ML, Mobile |
-| Веб-Сервис для форматирования кода на C++ | [Репозиторий](https://github.com/Quakumei/zharko-formatter/) | Flask, clang-format, Heroku, простой сервис |
-| ParkingMap | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Computer Vision, Сервис для определения занятости парковок по фотке парковок |
-| TripAR (Триппи) | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Augmented Reality, Мобильное приложение для виртуального гид |
-| ... | ... | ... |
