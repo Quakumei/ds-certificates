@@ -1,12 +1,13 @@
-# Мой путь в Data Science
-
 ## Оглавление
-- [Проекты](#Проекты)
-- [Сертификаты с хакатонов](#Сертификаты-с-хакатонов)
-- [Сертификаты с курсов](#Сертификаты-с-курсов)
-- [Релевантные предметы в университете](#Релевантные-предметы-в-университете)
+- [Образование](#образование)
+- [Проекты](#проекты)
+- [Сертификаты с курсов](#сертификаты-с-курсов)
+- [Сертификаты с хакатонов](#сертификаты-с-хакатонов)
 
+## Образование
 
+- СПбПУ "Программная инженерия" (2022 - 2025 гг) 
+- "Лицей №86 г. Ярославль" (до 2025) 
 
 ## Проекты
 
@@ -19,6 +20,17 @@
 | ParkingMap | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Computer Vision, Сервис для определения занятости парковок по фотке парковок |
 | TripAR (Триппи) | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Augmented Reality, Мобильное приложение для виртуального гид |
 | ... | ... | ... |
+
+## Сертификаты с курсов
+
+<!-- Table -->
+| Название | Ссылки | Навыки |
+| :--- | :--- | :--- |
+| «Основы машинного обучения ВШЭ 2020» | [Сайт курса](https://openedu.ru/course/hse/INTRML/?session=fall_2020) | `ML Basics`, `Linear Regression`, `Ensembling`, `Logistic Regression`|
+| «Deep Learning School МФТИ: 1 семестр продвинутый уровень 2021» | [Сайт курса](https://dls.samcs.ru/) | `Deep learning`, `CNN`, `Image Classification`, `PyTorch` |
+| «Datacamp: Advanced Deep Learning with Keras» | [Сертификат](Courses/Advanced%20Deep%20Learning%20with%20Keras.pdf) |  `Deep Learning`, `Keras`, `Воспроизведение сложных архитектур моделей` |
+| «Datacamp: Introduction to Deep Learning with Keras» | [Сертификат](Courses/Introduction%20to%20Deep%20Learning%20with%20Keras.pdf) |  `Deep Learning`, `Keras` |
+| «Datacamp: Introduction to Data Engineering» | [Сертификат](Courses/Introduction%20to%20Data%20Engineering.pdf) | `Понимание Data процессов`, `ETL`, `Apache Airflow` |
 
 
 ## Сертификаты с хакатонов
@@ -37,32 +49,4 @@
 | «EEStech Challenge» | `"Разработка мобильного приложения с геймификацией для онбординга - команда Филадельфия по-русски"` | [Сайт Хака (+лидерборд)](https://codenrock.com/contests/hackathon-eestech-challenge#/info) ◦ [Решение (ML + ссылки на другие)](https://github.com/philadelphia-rus/znayu-ai) | **Опыт менеджера + NLP + Деплой** | `NLP`, `Семантический поиск`, `Fine-tuning OpenAI`, `Интеграция API OpenAI в приложение` | 
 
 Также участвовал: TEAMFORCE ALLIANCE (призовое), Цифровой Прорыв 2021 (призовое), Цифровой прорыв 2022 ДФО, Совкомбанк CHALLENGE |  [Сайт хакатона](https://rectors-cup.spbstu.ru/) ◦ 
-
-## Сертификаты с курсов
-
-<!-- Table -->
-| Название | Ссылки | Навыки |
-| :--- | :--- | :--- |
-| «Deep Learning School МФТИ: 1 семестр продвинутый уровень 2021» | [Сайт курса](https://dls.samcs.ru/) | `Deep learning`, `CNN`, `Image Classification`, `PyTorch` |
-| «Основы машинного обучения ВШЭ 2020» | [Сайт курса](https://openedu.ru/course/hse/INTRML/?session=fall_2020) | `ML Basics`, `Linear Regression`, `Ensembling`, `Logistic Regression`|
-| «Datacamp: Advanced Deep Learning with Keras» | [Сертификат](Courses/Advanced%20Deep%20Learning%20with%20Keras.pdf) |  `Deep Learning`, `Keras`, `Воспроизведение сложных архитектур моделей` |
-| «Datacamp: Introduction to Deep Learning with Keras» | [Сертификат](Courses/Introduction%20to%20Deep%20Learning%20with%20Keras.pdf) |  `Deep Learning`, `Keras` |
-| «Datacamp: Introduction to Data Engineering»| [Сертификат](Courses/Introduction%20to%20Data%20Engineering.pdf) | `Понимание Data процессов`, `ETL`, `Apache Airflow` |
-
-## Релевантные предметы в университете (СПбПУ)
-
-<!-- Table -->
-| Название | Семестр | Комментарий |
-| :--- | :--- | :--- |
-| | | |
-| «Высшая математика» | 1,2,3 | Линейная алгебра, Математический анализ |
-| «Вычислительная математика» | 3,4 | Методы дифференцирования, интегрирования, аппроксимация, интерполяции, численное решение систем дифференциальных уравнений, Численное решение дифференциальных уравнений, методы минимизации |
-| «Математическое моделирование» | 4 | Анализ математических моделей |
-| | | |
-| «Алгоритмизация и программирование, C++» | 1,2 | Алгоритмы, C++, работа с CI/CD pipiline |
-| «СПО GNU/Linux» | 1,2 | Владение Bash, основы ОС, Системное программирование, кастомизация ядра, написание модулей ядра на C |
-| «Язык программирования Rust»| 3 | Написание веб-сервиса на Rust в команде из 10 разработчиков |
-| «Архитектура компьютера» | 3, 4 | Устройство компьютера, Assembly, Microcode, CUDA программирование |
-| «ООП: Программирование на Java» | 4 | ООП, Java |
-
 
