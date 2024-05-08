@@ -1,15 +1,23 @@
 ## Оглавление
 - [Оглавление](#оглавление)
 - [Образование](#образование)
-- [Проекты](#проекты)
-- [Сертификаты с курсов](#сертификаты-с-курсов)
-- [Сертификаты с хакатонов](#сертификаты-с-хакатонов)
 - [Стипендии](#стипендии)
+- [Проекты](#проекты)
+- [Сертификаты с хакатонов](#сертификаты-с-хакатонов)
+- [Сертификаты с курсов](#сертификаты-с-курсов)
 
 ## Образование
 
-- СПбПУ "Программная инженерия" (2021 - 2025 гг) 
-- "Лицей №86 г. Ярославль" (до 2021) 
+- [СПбПУ "Программная инженерия"](https://hsse.spbstu.ru/napravleniya_podgotovki/) (2021 - 2025)
+- ["Лицей №86 г. Ярославль"](http://www.licey86.ru/) (до 2021) 
+
+
+## Стипендии
+
+| Название                  | Краткое описание                                                                                                             | Ссылки                                                                                                                                                                                                                  |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Selectel Career Wave 2024 | Стипендиальная программа от IT-компании Selectel. Наградили 40 талантливых студентов топовых вузов Санкт-Петербурга и Москвы | [Сайт стипендии](https://careers.selectel.ru/careerwave_scholarship) ◦ [Сертификат](Other/2024-SELECTEL-CAREER-WAVE-SCHOLARSHIP.png) ◦ [Список стипендиатов](Other/2024-SELECTEL-CAREER-WAVE-SCHOLARSHIP-FINALISTS.pdf) |
+
 
 ## Проекты
 
@@ -22,18 +30,6 @@
 | ParkingMap                                                                         | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Computer Vision, Сервис для определения занятости парковок по фотке парковок              |
 | TripAR (Триппи)                                                                    | [Упоминание](https://vk.com/yours_startup?w=wall-215444994_9) | Augmented Reality, Мобильное приложение для виртуального гид                              |
 | ...                                                                                | ...                                                           | ...                                                                                       |
-
-## Сертификаты с курсов
-
-<!-- Table -->
-| Название                                                        | Ссылки                                                                       | Навыки                                                                 |
-| :-------------------------------------------------------------- | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
-| «Основы машинного обучения ВШЭ 2020»                            | [Сайт курса](https://openedu.ru/course/hse/INTRML/?session=fall_2020)        | `ML Basics`, `Linear Regression`, `Ensembling`, `Logistic Regression`  |
-| «Deep Learning School МФТИ: 1 семестр продвинутый уровень 2021» | [Сайт курса](https://dls.samcs.ru/)                                          | `Deep learning`, `CNN`, `Image Classification`, `PyTorch`              |
-| «Datacamp: Advanced Deep Learning with Keras»                   | [Сертификат](Courses/Advanced%20Deep%20Learning%20with%20Keras.pdf)          | `Deep Learning`, `Keras`, `Воспроизведение сложных архитектур моделей` |
-| «Datacamp: Introduction to Deep Learning with Keras»            | [Сертификат](Courses/Introduction%20to%20Deep%20Learning%20with%20Keras.pdf) | `Deep Learning`, `Keras`                                               |
-| «Datacamp: Introduction to Data Engineering»                    | [Сертификат](Courses/Introduction%20to%20Data%20Engineering.pdf)             | `Понимание Data процессов`, `ETL`, `Apache Airflow`                    |
-| «ML Тренировки 2023 (Yandex)»                                   | [Сертификат](Courses/2023-YANDEX-ML-TRAINING.pdf)                            | `Реализация ML алгоритмов "с нуля"`                                    |
 
 
 ## Сертификаты с хакатонов
@@ -60,11 +56,17 @@
 - Совкомбанк CHALLENGE
 
 
-## Стипендии
+## Сертификаты с курсов
 
-| Название                  | Краткое описание                                                                                                             | Ссылки                                                                                                                                                                                                                  |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Selectel Career Wave 2024 | Стипендиальная программа от IT-компании Selectel. Наградили 40 талантливых студентов топовых вузов Санкт-Петербурга и Москвы | [Сайт стипендии](https://careers.selectel.ru/careerwave_scholarship) ◦ [Сертификат](Other/2024-SELECTEL-CAREER-WAVE-SCHOLARSHIP.png) ◦ [Список стипендиатов](Other/2024-SELECTEL-CAREER-WAVE-SCHOLARSHIP-FINALISTS.pdf) |
+<!-- Table -->
+| Название                                                        | Ссылки                                                                       | Навыки                                                                 |
+| :-------------------------------------------------------------- | :--------------------------------------------------------------------------- | :--------------------------------------------------------------------- |
+| «Основы машинного обучения ВШЭ 2020»                            | [Сайт курса](https://openedu.ru/course/hse/INTRML/?session=fall_2020)        | `ML Basics`, `Linear Regression`, `Ensembling`, `Logistic Regression`  |
+| «Deep Learning School МФТИ: 1 семестр продвинутый уровень 2021» | [Сайт курса](https://dls.samcs.ru/)                                          | `Deep learning`, `CNN`, `Image Classification`, `PyTorch`              |
+| «Datacamp: Advanced Deep Learning with Keras»                   | [Сертификат](Courses/Advanced%20Deep%20Learning%20with%20Keras.pdf)          | `Deep Learning`, `Keras`, `Воспроизведение сложных архитектур моделей` |
+| «Datacamp: Introduction to Deep Learning with Keras»            | [Сертификат](Courses/Introduction%20to%20Deep%20Learning%20with%20Keras.pdf) | `Deep Learning`, `Keras`                                               |
+| «Datacamp: Introduction to Data Engineering»                    | [Сертификат](Courses/Introduction%20to%20Data%20Engineering.pdf)             | `Понимание Data процессов`, `ETL`, `Apache Airflow`                    |
+| «ML Тренировки 2023 (Yandex)»                                   | [Сертификат](Courses/2023-YANDEX-ML-TRAINING.pdf)                            | `Реализация ML алгоритмов "с нуля"`                                    |
 
 
 
