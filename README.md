@@ -21,7 +21,8 @@
 
 ## Места работы
 
-- Май 2023 по н.в. - Junior ML Engineer @ [LLC "datapipesoft"](https://datapipesoft.com/)
+- Сентярь 2024 по н.в. - ML Engineer @ ["Формат Кода" (бывш. Ф-Лайн Софтвер)](https://formatkoda.ru/)
+- Май 2023 по Август 2024 - Intern ML Engineer @ [LLC "datapipesoft"](https://datapipesoft.com/)
 
 ## Гранты
 
