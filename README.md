@@ -21,7 +21,8 @@
 
 ## Места работы
 
-- Сентярь 2024 по н.в. - ML Engineer @ ["Формат Кода" (бывш. Ф-Лайн Софтвер)](https://formatkoda.ru/)
+- Сентябрь 2025 по н.в. - Data Scientist @ ["МегаТех" (МегаФон)](https://www.megatech-it.ru/)
+- Сентярь 2024 по Сентябрь 2025 - ML Engineer @ ["Формат Кода" (бывш. Ф-Лайн Софтвер)](https://formatkoda.ru/)
 - Май 2023 по Август 2024 - Junior ML Engineer @ [LLC "datapipesoft"](https://datapipesoft.com/)
 
 ## Гранты
